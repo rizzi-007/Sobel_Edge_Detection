@@ -211,3 +211,6 @@ Connected!
 Transfer + FPGA Execution Time: 0.0482 seconds
 Success! Press any key on the image window to exit.
 </pre>
+
+<img width="1315" height="711" alt="Screenshot 2026-10-14 191529" src="https://github.com/user-attachments/assets/d502f76b-812b-4fbf-a288-0c8f023b0a7b" />
+
